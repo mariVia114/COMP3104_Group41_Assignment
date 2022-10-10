@@ -1,0 +1,3 @@
+DevOps engineers can work in any part of creating systems, applications and software, 
+i.e. planning, testing, deployment, and release. 
+As a result, they can develop systems faster.
