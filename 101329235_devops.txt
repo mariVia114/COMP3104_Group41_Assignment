@@ -1,0 +1,4 @@
+The procedures, standards, and best practises that a DevOps engineer brings to the office setting in order to boost 
+productivity are covered in this course. Utilizing a toolkit that is industry standard, analyse, assess, 
+and put into practise the many development operations now available. By following the fundamental duties of DevOps, 
+one can develop solutions to complicated business problems.
