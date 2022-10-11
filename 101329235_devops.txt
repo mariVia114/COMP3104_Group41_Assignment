@@ -1,3 +1,5 @@
+About COMP 3104 - DevOps:
+Pre-Requisites: COMP 3044
 The procedures, standards, and best practises that a DevOps engineer brings to the office setting in order to boost 
 productivity are covered in this course. Utilizing a toolkit that is industry standard, analyse, assess, 
 and put into practise the many development operations now available. By following the fundamental duties of DevOps, 
