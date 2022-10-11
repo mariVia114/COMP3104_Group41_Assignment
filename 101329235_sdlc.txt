@@ -1,0 +1,7 @@
+Engineers in the DevOps field add new skills to their existing ones. In addition to the need for leadership and teamwork, 
+tasks like data administration and library upgrades for new product releases are combined. The foundations of 
+application development and delivery are crucial for DevOps engineers to comprehend.
+
+One of the important cultural elements of DevOps is the improvement of communication and collaboration 
+inside an organisation. By physically combining the tasks and processes of development and operations, 
+the usage of DevOps technologies and automation of the software delivery process creates a collaborative environment.
