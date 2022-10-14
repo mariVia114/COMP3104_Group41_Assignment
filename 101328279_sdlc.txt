@@ -1,1 +1,5 @@
 DevOps is important because it improves the development procedures, thus reducing the time to produce a software
+DevOps engineers can work in any part of creating systems, applications and software, 
+i.e. planning, testing, deployment, and release. 
+As a result, they can develop systems faster.
+
